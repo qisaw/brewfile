@@ -13,12 +13,18 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 To install homebrew, run the following commands
 Note: These commands are taken from the following [link](https://homebrew-file.readthedocs.io/en/latest/getting_started.html#use-github-or-any-git-repository-for-brewfile-management)
 
-1) first install homebrew-file
+1) First install homebrew-file
     ```
     brew install rcmdnk/file/brew-file
     ```
-1) set the brewfile repository to `qisaw/brewfile`
+1) Set the brewfile repository to `qisaw/brewfile`
     ```
     brew file set_repo
     ```
-
+1) Add brew-wrap into ~/.zprofile or ~/.zshprofile to wrap all brew commands in brew file
+    ```
+    if [ -f $(brew --prefix)/etc/brew-wrap ];then
+        source $(brew --prefix)/etc/brew-wrap
+    fi
+    ```
+   
