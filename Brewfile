@@ -2,8 +2,10 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew nvm
 
 tap homebrew/cask
+cask iterm2
 
 tap rcmdnk/file
 brew brew-file
