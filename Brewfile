@@ -5,6 +5,7 @@ tap homebrew/core
 brew nvm
 
 tap homebrew/cask
+cask docker-desktop
 cask iterm2
 
 tap rcmdnk/file
