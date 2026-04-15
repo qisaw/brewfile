@@ -2,7 +2,17 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew gettext
+brew libunistring
+brew libuv
+brew lpeg
+brew luajit
+brew luv
+brew neovim
 brew nvm
+brew tree-sitter
+brew unibilium
+brew utf8proc
 
 tap homebrew/cask
 cask 1password
