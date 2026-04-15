@@ -20,6 +20,7 @@ cask discord
 cask docker-desktop
 cask firefox
 cask iterm2
+cask zoom
 
 tap rcmdnk/file
 brew brew-file
