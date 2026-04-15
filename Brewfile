@@ -5,7 +5,10 @@ tap homebrew/core
 brew nvm
 
 tap homebrew/cask
+cask 1password
+cask discord
 cask docker-desktop
+cask firefox
 cask iterm2
 
 tap rcmdnk/file
