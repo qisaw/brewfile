@@ -2,25 +2,42 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew awscli
+brew ca-certificates
 brew gettext
 brew libunistring
 brew libuv
 brew lpeg
 brew luajit
 brew luv
+brew lz4
+brew mpdecimal
 brew neovim
 brew nvm
+brew openssl@3
+brew pcre2
+brew python@3.14
+brew readline
+brew ripgrep
+brew sqlite
 brew tree-sitter
 brew unibilium
 brew utf8proc
+brew xz
+brew zstd
 
 tap homebrew/cask
 cask 1password
+cask codex
+cask dbeaver-community
 cask discord
 cask docker-desktop
 cask firefox
 cask iterm2
 cask zoom
+
+tap hashicorp/tap
+brew terraform
 
 tap rcmdnk/file
 brew brew-file
