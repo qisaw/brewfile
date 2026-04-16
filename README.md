@@ -21,10 +21,14 @@ Note: These commands are taken from the following [link](https://homebrew-file.r
     ```
     brew file set_repo
     ```
-1) Add brew-wrap into ~/.zprofile or ~/.zshprofile to wrap all brew commands in brew file
+1) Add brew-wrap into ~/.zprofile or ~/.zshprofile to wrap all brew commands in brew file (This will already be done if you're using my dotfiles)
     ```
     if [ -f $(brew --prefix)/etc/brew-wrap ];then
         source $(brew --prefix)/etc/brew-wrap
     fi
     ```
+1) Install the existing packages
+   ```
+   brew file install
+   ```
    
