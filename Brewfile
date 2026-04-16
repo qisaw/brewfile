@@ -48,6 +48,7 @@ brew utf8proc
 brew uvwasi
 brew vscode-langservers-extracted
 brew xz
+brew zsh-autosuggestions
 brew zstd
 
 tap homebrew/cask
