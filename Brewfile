@@ -7,6 +7,7 @@ brew awscli
 brew brotli
 brew c-ares
 brew ca-certificates
+brew docker-language-server
 brew fmt
 brew fzf
 brew gettext
@@ -37,12 +38,14 @@ brew ripgrep
 brew simdjson
 brew simdutf
 brew sqlite
+brew terraform-ls
 brew tree-sitter
 brew typescript
 brew typescript-language-server
 brew unibilium
 brew utf8proc
 brew uvwasi
+brew vscode-langservers-extracted
 brew xz
 brew zstd
 
