@@ -40,6 +40,7 @@ brew simdutf
 brew sqlite
 brew terraform-ls
 brew tree-sitter
+brew tree-sitter-cli
 brew typescript
 brew typescript-language-server
 brew unibilium
