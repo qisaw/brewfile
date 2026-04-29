@@ -88,6 +88,7 @@ cask firefox
 cask font-jetbrains-mono-nerd-font
 cask iterm2
 cask rectangle
+cask whatsapp
 cask zoom
 
 tap hashicorp/tap
@@ -102,3 +103,4 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
+appstore 497799835 Xcode (26.4.1)
