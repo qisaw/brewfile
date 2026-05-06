@@ -87,6 +87,7 @@ cask docker-desktop
 cask firefox
 cask font-jetbrains-mono-nerd-font
 cask iterm2
+cask postman
 cask rectangle
 cask whatsapp
 cask zoom
