@@ -16,6 +16,7 @@ brew fribidi
 brew fzf
 brew gdk-pixbuf
 brew gettext
+brew gh
 brew giflib
 brew glib
 brew graphite2
@@ -40,6 +41,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew little-cms2
 brew llhttp
 brew lpeg
 brew lua-language-server
@@ -53,6 +55,7 @@ brew nbytes
 brew neovim
 brew node
 brew nvm
+brew openjdk
 brew openssl@3
 brew pango
 brew pcre2
@@ -80,6 +83,7 @@ brew zstd
 
 tap homebrew/cask
 cask 1password
+cask altair-graphql-client
 cask codex
 cask dbeaver-community
 cask discord
@@ -87,16 +91,15 @@ cask docker-desktop
 cask firefox
 cask font-jetbrains-mono-nerd-font
 cask iterm2
+cask ngrok
 cask postman
 cask rectangle
 cask whatsapp
 cask zoom
 
 tap hashicorp/tap
-brew terraform
 
 tap rcmdnk/file
-brew brew-file
 
 # App Store applications
 appstore 682658836 GarageBand (10.4.13)
@@ -104,4 +107,4 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
-appstore 497799835 Xcode (26.4.1)
+appstore 497799835 Xcode (26.5)
