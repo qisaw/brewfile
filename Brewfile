@@ -8,6 +8,7 @@ brew brotli
 brew c-ares
 brew ca-certificates
 brew cairo
+brew codex-acp
 brew docker-language-server
 brew fmt
 brew fontconfig
@@ -107,4 +108,4 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
-appstore 497799835 Xcode (26.5)
+appstore 497799835 Xcode (26.6)
