@@ -8,7 +8,6 @@ brew brotli
 brew c-ares
 brew ca-certificates
 brew cairo
-brew codex-acp
 brew docker-language-server
 brew fmt
 brew fontconfig
@@ -26,6 +25,7 @@ brew hdrhistogram_c
 brew icu4c@78
 brew jpeg
 brew jpeg-turbo
+brew json-c
 brew libdatrie
 brew libnghttp2
 brew libnghttp3
@@ -95,6 +95,7 @@ cask iterm2
 cask ngrok
 cask postman
 cask rectangle
+cask session-manager-plugin
 cask whatsapp
 cask zoom
 
@@ -108,4 +109,4 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
-appstore 497799835 Xcode (26.6)
+appstore 497799835 Xcode (27.0)
