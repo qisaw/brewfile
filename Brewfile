@@ -2,7 +2,9 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
 brew ada-url
+brew aom
 brew awscli
 brew brotli
 brew c-ares
@@ -22,11 +24,16 @@ brew glib
 brew graphite2
 brew harfbuzz
 brew hdrhistogram_c
+brew highway
 brew icu4c@78
+brew imagemagick
 brew jpeg
 brew jpeg-turbo
 brew json-c
 brew libdatrie
+brew libde265
+brew libffi
+brew libheif
 brew libnghttp2
 brew libnghttp3
 brew libngtcp2
@@ -34,8 +41,10 @@ brew libpng
 brew librsvg
 brew libthai
 brew libtiff
+brew libtool
 brew libunistring
 brew libuv
+brew libvmaf
 brew libx11
 brew libxau
 brew libxcb
@@ -50,6 +59,7 @@ brew luajit
 brew luv
 brew lz4
 brew lzo
+brew m4
 brew merve
 brew mpdecimal
 brew nbytes
@@ -77,6 +87,8 @@ brew unibilium
 brew utf8proc
 brew uvwasi
 brew vscode-langservers-extracted
+brew webp
+brew x265
 brew xorgproto
 brew xz
 brew zsh-autosuggestions
